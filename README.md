@@ -35,6 +35,9 @@ They come with these default values:
 ```bash
 GOOGLE_MAPS_KEY={{YOUR_GOOGLE_MAPS API}}
 ```
+## Try the APP now
+
+To try the App on Android devices, you can go to release section and download the latest APK and install it in your device. 
 
 ## Build and Run on Android
 
